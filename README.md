@@ -9,9 +9,9 @@ This is a real-time chat application with a client in the browser developed usin
 
 ![LoginPage](https://github.com/piyushsingh223/Realtime-Chat-Application-with-SpringBoot-and-Angular/blob/main/LoginPage.jpg)
 
-![ChatPage](https://github.com/piyushsingh223/Realtime-Chat-Application-with-SpringBoot-and-Angular/blob/main/chat_page.jpg)
+![ChatPage](https://github.com/piyushsingh223/Realtime-Chat-Application-with-SpringBoot-and-Angular/blob/main/chat_page.png)
 
-![DeleteChat](https://github.com/piyushsingh223/Realtime-Chat-Application-with-SpringBoot-and-Angular/blob/main/deletechat.jpg)
+![DeleteChat](https://github.com/piyushsingh223/Realtime-Chat-Application-with-SpringBoot-and-Angular/blob/main/deletechat.png)
 
 ## Features
 
